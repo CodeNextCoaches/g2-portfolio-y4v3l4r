@@ -47,3 +47,12 @@ span{
   box-shadow: 0 0 5px 5px #555555;
   opacity: 1.0;
 }
+
+body {
+  background: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+  }
